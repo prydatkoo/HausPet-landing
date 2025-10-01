@@ -216,7 +216,7 @@ This project is UNLICENSED - Private and proprietary software.
 
 ## 📧 Contact
 
-- **Website:** [https://hauspet.com](https://hauspet.com)
+- **Website:** [https://hauspet.net](https://hauspet.net)
 - **Email:** hello@hauspet.net
 - **Phone:** +49 (0) 160 121 8642
 

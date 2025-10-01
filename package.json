@@ -67,7 +67,7 @@
   "bugs": {
     "url": "https://github.com/hauspet/landing-page/issues"
   },
-  "homepage": "https://hauspet.com",
+  "homepage": "https://hauspet.net",
   "engines": {
     "node": ">=16.0.0"
   },

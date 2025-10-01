@@ -115,7 +115,7 @@ After deployment:
 
 1. Go to Project **Settings** → **Domains**
 2. Click **"Add"**
-3. Enter your domain: `hauspet.com`
+3. Enter your domain: `hauspet.net`
 4. Follow DNS configuration instructions
 5. Vercel handles SSL automatically! 🔒
 

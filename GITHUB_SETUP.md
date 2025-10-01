@@ -106,7 +106,7 @@ Vercel will automatically deploy on every push to the main branch.
 
 ### About Section
 - **Description**: Official landing page for HausPet Smart Collar
-- **Website**: https://hauspet.com
+- **Website**: https://hauspet.net
 - **Topics**: `react`, `vite`, `tailwindcss`, `landing-page`, `pet-care`, `smart-collar`, `ai`
 
 ### Features to Enable
